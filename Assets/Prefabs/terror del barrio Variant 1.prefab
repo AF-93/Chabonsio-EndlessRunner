@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5953994113610002910
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4521446004916746007, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Name
+      value: terror del barrio Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634991240633304814, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: MoveSpeed
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5954073974147871521, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.17988308
+      objectReference: {fileID: 0}
+    - target: {fileID: 5954073974147871521, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.8919649
+      objectReference: {fileID: 0}
+    - target: {fileID: 5954073974147871521, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.026686125
+      objectReference: {fileID: 0}
+    - target: {fileID: 5954073974147871521, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.024017572
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6841850069504913411, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8050576873297676708, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Color.b
+      value: 0.72087246
+      objectReference: {fileID: 0}
+    - target: {fileID: 8050576873297676708, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8050576873297676708, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
+      propertyPath: m_Color.r
+      value: 0.6650944
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28c677c99039f5945b0b20a99240c52d, type: 3}
